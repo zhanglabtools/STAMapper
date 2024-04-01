@@ -34,13 +34,12 @@ python setup.py install
 ## Tutorials
 The following are detailed tutorials. All tutotials were ran on a 12600kf cpu and a 3060 12G gpu.
 
-1. [Cell-type annotation on scST data (with pre-annoated info)](./Tutorials/Tutorial1 cell-type annotation on scST data (with pre-annoated info).ipynb).
+1. [Cell-type annotation on scST data (with pre-annoated info)](./Tutorials/Tutorial1_cell-type_annotation_on_scST_data_(with_pre-annoated_info).ipynb).
 
-2. [Cell-type annotation on scST data (without pre-annoated info)](./Tutorials/Tutorial2 cell-type annotation on scST data (without pre-annoated info).ipynb).
+2. [Cell-type annotation on scST data (without pre-annoated info)](./Tutorials/Tutorial2_cell-type_annotation_on_scST_data_(without_pre-annoated_info).ipynb).
 
-3. [Localization of human SCC cells on tissue sections](./Tutorials/Tutorial3 reannotation on scST data (with pre-annoated info).ipynb).
+3. [Localization of human SCC cells on tissue sections](./Tutorials/Tutorial3_reannotation_on_scST_data_(with_pre-annoated_info).ipynb).
 
-4. [Unknown cell type detectio](./Tutorials/Tutorial4 unknown cell type detection.ipynb).
+4. [Unknown cell type detectio](./Tutorials/Tutorial4_unknown_cell_type_detection.ipynb).
 
-5. [Gene module extraction](./Tutorials/Tutorial5 gene module extraction.ipynb).
-
+5. [Gene module extraction](./Tutorials/Tutorial5_gene_module_extraction.ipynb).
