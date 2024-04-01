@@ -30,7 +30,7 @@ python setup.py build
 python setup.py install
 ```
 ## Tutorials
-The following are detailed tutorials. 
+The following are detailed tutorials. All tutotials were ran on a 12600kf cpu and a 3060 12G gpu.
 
 1. [Simulation experiment](./tutorials/T1_simulation_experiment.ipynb)
 
