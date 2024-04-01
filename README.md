@@ -40,6 +40,6 @@ The following are detailed tutorials. All tutotials were ran on a 12600kf cpu an
 
 3. [Reannotation on scST data (with pre-annoated info)](./Tutorials/Tutorial3_reannotation_on_scST_data_(with_pre-annoated_info).ipynb).
 
-4. [Unknown cell type detectio](./Tutorials/Tutorial4_unknown_cell_type_detection.ipynb).
+4. [Unknown cell type detection](./Tutorials/Tutorial4_unknown_cell_type_detection.ipynb).
 
 5. [Gene module extraction](./Tutorials/Tutorial5_gene_module_extraction.ipynb).
