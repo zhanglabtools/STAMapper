@@ -24,7 +24,7 @@ need to be compatible with the version of CUDA.
 
 ## Installation
 After downloading STAMapper from [Github](https://github.com/zhanglabtools/STAMapper), 
-you can install STAMapper via
+you can install STAMapper via:
 
 ```
 cd STAMapper-main
