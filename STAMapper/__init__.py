@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# @author: Xingyan Liu
 
 from .utils import (
         load_hidden_states,
@@ -49,4 +48,4 @@ from . import pipeline
 from .pipeline import KET_CLUSTER
 
 
-__version__ = "0.1.10"
+__version__ = "0.0.1"
