@@ -29,14 +29,14 @@ need to be compatible with the version of CUDA.
 
 
 ## Installation
-After downloading STAMapper from [Github](https://github.com/zhanglabtools/STAMapper), 
-you can install STAMapper via:
-
+You can install STAMapper via:
 ```
-cd STAMapper-main
+git clone https://github.com/zhanglabtools/STAMapper.git
+cd STAMapper
 python setup.py build
 python setup.py install
 ```
+
 ## Tutorials
 The following are detailed tutorials. All tutotials were ran on a 12600kf cpu and a 3060 12G gpu.
 
