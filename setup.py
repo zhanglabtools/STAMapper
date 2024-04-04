@@ -14,18 +14,18 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'came'
-DESCRIPTION = 'cell-type assignment and gene module extraction of scRNA-seq'
-URL = 'https://github.com/XingyanLiu/CAME'
-EMAIL = '544568643@qq.com'
-AUTHOR = 'Xingyan Liu'
+NAME = 'SATAMapper'
+DESCRIPTION = 'High-precision mapping and annotation for single-cell spatial transcriptomics with STAMapper'
+URL = 'https://github.com/zhanglabtools/STAMapper'
+EMAIL = '1551039437@qq.com'
+AUTHOR = 'Qunlun Shen'
 REQUIRES_PYTHON = '>=3.8.0'
-VERSION = '0.1.10'
+VERSION = '0.0.1'
 
 REQUIRED = [
-    'scanpy',
-    'torch',
-    'dgl'
+    'scanpy[leiden]>=1.9.1, <=1.9.8',
+    'torch>=1.12.0, <=2.0.1',
+    'dgl>=1.1.2, <=2.1.0'
 ]
 
 # What packages are optional?
