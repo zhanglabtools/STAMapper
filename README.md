@@ -14,6 +14,7 @@ It is recommended to use a Python version  `3.9`.
 The important Python packages used to run the model are as follows: 
 ```
 scanpy[leiden]>=1.9.1,<=1.9.8
+numpy<=1.24.4
 torch>=1.12.0,<=2.0.1
 torchvision>=0.13.0,<=0.15.2
 dgl>=1.1.2,<=2.1.0
