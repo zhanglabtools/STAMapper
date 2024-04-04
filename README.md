@@ -15,7 +15,7 @@ The important Python packages used to run the model are as follows:
 ```
 scanpy[leiden]>=1.9.1,<=1.9.5
 torch>=1.12.0,<=2.0.1
-torchvision>=0.13.0,<=1.15.2
+torchvision>=0.13.0,<=0.15.2
 dgl==1.1.2
 ```
 STAMapper is running on GPU, the versions of torch and torchvision 
