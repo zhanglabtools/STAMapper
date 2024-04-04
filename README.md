@@ -17,6 +17,7 @@ scanpy[leiden]>=1.9.1,<=1.9.8
 torch>=1.12.0,<=2.0.1
 torchvision>=0.13.0,<=0.15.2
 dgl>=1.1.2,<=2.1.0
+cuda version<=12.1
 ```
 You can install scanpy[leiden] via:
 ```
