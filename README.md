@@ -9,6 +9,14 @@ We also collected 81 scST datasets consisting of 344 slices and 16 paired scRNA-
 
 ## Prerequisites
 It is recommended to use a Python version  `3.9`.
+* set up conda environment for STAMapper 
+```
+conda create -n STAMapper python==3.9
+```
+* install STAMapper from shell:
+* ```
+conda activate STAMapper
+```
 
 ## Software dependencies
 The important Python packages used to run the model are as follows: 
