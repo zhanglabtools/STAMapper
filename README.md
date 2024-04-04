@@ -17,7 +17,7 @@ torch>=1.12.0,<=2.0.1
 torchvision>=0.13.0,<=0.15.2
 dgl>=1.1.2,<=2.1.0
 ```
-STAMapper is running on GPU, the versions of torch and torchvision 
+STAMapper is running on GPU, the versions of [torch, torchvision](https://pytorch.org/) and [dgl](https://www.dgl.ai/pages/start.html)
 need to be compatible with the version of CUDA.
 
 
