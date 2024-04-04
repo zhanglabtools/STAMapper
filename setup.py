@@ -1,7 +1,4 @@
 # -*- coding: UTF-8 -*-
-# @Author: Xingyan Liu
-# @File: setup.py
-# @Project: CAME
 
 # Note: To use the 'upload' functionality of this file, you must:
 #   $ pipenv install twine --dev
