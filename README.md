@@ -18,7 +18,6 @@ conda create -n STAMapper python==3.9
 conda activate STAMapper
 ```
 
-## Software dependencies
 The important Python packages used to run the model are as follows: 
 ```
 torch>=1.12.0,<=2.0.1
