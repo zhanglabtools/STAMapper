@@ -411,6 +411,7 @@ class Trainer(BaseTrainer):
         optimizer = torch.optim.Adam([
             {'params': model.parameters(), 'lr':3e-4, 'weight_decay':1e-2}])
         print(f" start training (device='{device}') ".center(60, '='))
+        print('It will take minutes from epoch 0~100, please wait!')
         for epoch in range(n_epochs):
             model.train()
             self._cur_epoch += 1
