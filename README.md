@@ -18,6 +18,10 @@ torch>=1.12.0,<=2.0.1
 torchvision>=0.13.0,<=0.15.2
 dgl>=1.1.2,<=2.1.0
 ```
+You can install scanpy[leiden] via:
+```
+pip install scanpy[leiden]
+```
 STAMapper is running on GPU, the versions of torch and torchvision 
 need to be compatible with the version of CUDA.
 
