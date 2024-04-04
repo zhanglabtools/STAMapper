@@ -11,12 +11,12 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'SATAMapper'
+NAME = 'STAMapper'
 DESCRIPTION = 'High-precision mapping and annotation for single-cell spatial transcriptomics with STAMapper'
 URL = 'https://github.com/zhanglabtools/STAMapper'
 EMAIL = '1551039437@qq.com'
 AUTHOR = 'Qunlun Shen'
-REQUIRES_PYTHON = '>=3.8.0'
+REQUIRES_PYTHON = '>=3.9.0'
 VERSION = '0.0.1'
 
 REQUIRED = [
