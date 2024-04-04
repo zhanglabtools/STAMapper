@@ -23,7 +23,7 @@ REQUIRED = [
     'scanpy[leiden]>=1.9.1, <=1.9.8',
     'torch>=1.12.0, <=2.0.1',
     'dgl>=1.1.2, <=2.1.0',
-    'numpy<=1.24.4'
+    'numpy>=1.23.4, <=1.24.4'
 ]
 
 # What packages are optional?
