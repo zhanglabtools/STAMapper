@@ -14,7 +14,7 @@ It is recommended to use a Python version  `3.9`.
 conda create -n STAMapper python==3.9
 ```
 * install STAMapper from shell:
-* ```
+```
 conda activate STAMapper
 ```
 
