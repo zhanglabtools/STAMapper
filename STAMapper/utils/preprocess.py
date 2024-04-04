@@ -2411,7 +2411,7 @@ def find_cells_with_no_edges(filtered_scnet):
     return cells_with_no_edges
 
 
-def filter_celltype_KNN(adata_sc, came_inputs, adata1):
+def filter_celltype_KNN(adata_sc, came_inputs, adata1, key_class1='celltype'):
     """
     Return KNN graph filted by cell type information in adata_sc
     Parameters
@@ -2427,7 +2427,7 @@ def filter_celltype_KNN(adata_sc, came_inputs, adata1):
     filtered_scnet : csr matrix
 
     """
-    ct_list = adata_sc.obs['celltype'].tolist()
+    ct_list = adata_sc.obs[key_class1].tolist()
     scnet1 = came_inputs['scnets'][0] 
     
     ct_array = np.array(ct_list)
