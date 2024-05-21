@@ -17,7 +17,7 @@ URL = 'https://github.com/zhanglabtools/STAMapper'
 EMAIL = '1551039437@qq.com'
 AUTHOR = 'Qunlun Shen'
 REQUIRES_PYTHON = '>=3.9.0'
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 
 REQUIRED = [
     'scanpy[leiden]>=1.9.1, <=1.9.8',
@@ -114,7 +114,7 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: Implementation :: CPython',
         'Programming Language :: Python :: Implementation :: PyPy'
     ],
