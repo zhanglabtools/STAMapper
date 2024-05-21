@@ -1086,7 +1086,7 @@ def training(adatas, dsnames, key_classes, num=1, n_epochs=1000, n_pass=100, bat
             node_source=node_source,
             df_varmap_1v1=None,  # set as None if NOT cross species
         )
-        adata1, STAMapper_inputs, filtered_scnet = pp.filter_celltype_KNN(adata_sc, STAMapper_inputs, adata1)
+        adata1, STAMapper_inputs, filtered_scnet = pp.filter_celltype_KNN(adata_sc, STAMapper_inputs, adata1, key_class1=key_class1)
         if k>0:
             cells_no_edges_indices = pp.find_cells_with_no_edges(filtered_scnet)
             save_index = list(set(range(adata_sc.shape[0]))-set(cells_no_edges_indices))
