@@ -5,7 +5,7 @@ STAMapper is a method that annotates cells from single-cell spatial transcriptom
 
 We also collected 81 scST datasets consisting of 344 slices and 16 paired scRNA-seq datasets from eight technologies and five tissues, served as a benchmark for scST annotation (can be downloaded from [here](https://drive.google.com/drive/folders/1xP3Fh94AwKu4OsH3khGq-KEw0VCoiRnL)).
 
-![](./STAMapper_overview .png)
+![](./STAMapper_overview.png)
 
 ## Prerequisites
 It is recommended to use a Python version  `3.9`.
