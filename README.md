@@ -3,7 +3,7 @@
 ## Overview
 STAMapper is a method that annotates cells from single-cell spatial transcriptomics (scST) data. It is a deep learning-based tool that uses a heterogeneous graph neural network to transfer the cell-type labels from single-cell RNA-seq (scRNA-seq) data to scST data. 
 
-We also collected 81 scST datasets consisting of 344 slices and 16 paired scRNA-seq datasets from eight technologies and five tissues, served as a benchmark for scST annotation (can be downloaded from [here]).
+We also collected 81 scST datasets consisting of 344 slices and 16 paired scRNA-seq datasets from eight technologies and five tissues, served as a benchmark for scST annotation (can be downloaded from [here](https://drive.google.com/drive/u/0/folders/1xP3Fh94AwKu4OsH3khGq-KEw0VCoiRnL)).
 
 ![](./STAMapper_overview.png)
 
