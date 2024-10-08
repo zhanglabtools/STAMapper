@@ -44,7 +44,7 @@ The following are detailed tutorials. All tutotials were ran on a 12600kf cpu an
 
 2. [Cell-type annotation on scST data (without pre-annoated info)](./Tutorials/Tutorial2_cell-type_annotation_on_scST_data_(without_pre-annotated_info).ipynb).
 
-3. [Reannotation on scST data (with pre-annoated info)](./Tutorials/Tutorial3_reannotation_on_scST_data_(with_pre-annoated_info).ipynb).
+3. [Reannotation on scST data (with pre-annoated info)](./Tutorials/Tutorial3_reannotation_on_scST_data_(with_pre-annotated_info).ipynb).
 
 4. [Unknown cell type detection](./Tutorials/Tutorial4_unknown_cell_type_detection.ipynb).
 
