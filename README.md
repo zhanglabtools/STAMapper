@@ -39,7 +39,7 @@ python setup.py install
 ```
 
 ## Tutorials
-The following are detailed tutorials. All tutorials were ran on a 12600kf cpu and a 3060 12G gpu.
+The following are detailed tutorials. We test the tutorials on a 12600kf cpu with a 3060 12G gpu, and also on AMD EPYC 7K62 48-Core Processo  with a 4090 24G gpu.
 
 1. [Cell-type annotation on scST data (with pre-annotated info)](./Tutorials/Tutorial1_cell-type_annotation_on_scST_data_(with_pre-annotated_info).ipynb).
 
