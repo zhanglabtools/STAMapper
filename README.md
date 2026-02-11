@@ -43,6 +43,7 @@ python setup.py install
 The following are detailed tutorials. We test the tutorials on a 12600kf cpu with a 3060 12G gpu, and also on an AMD EPYC 7K62 48-Core Processo  with a 4090 24G gpu.
 
 1. [Cell-type annotation on scST data (with pre-annotated info)](./Tutorials/Tutorial1_cell-type_annotation_on_scST_data_(with_pre-annotated_info).ipynb).
+  with_pre-annotated_info means we used this pre-annotation from the original authors to evaluate the accuracy, we didn't use this information during traning.
 
 2. [Cell-type annotation on scST data (without pre-annotated info)](./Tutorials/Tutorial2_cell-type_annotation_on_scST_data_(without_pre-annotated_info).ipynb).
 
